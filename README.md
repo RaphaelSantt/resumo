@@ -52,7 +52,7 @@ public class Raphael {
 
 <div align="left">
 
-<img height="180em" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RaphaelSantt&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RaphaelSantt&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 
